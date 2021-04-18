@@ -1,0 +1,52 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Marck+Script&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Marck+Script&family=Pacifico&family=Pangolin&display=swap');
+
+
+ul
+
+
+
+{
+font-family: 'Pacifico', cursive;
+     color: white;
+     background-color: #120e22;
+     border: 5px inset white;
+
+}
+ol {
+	color: #555555;
+	background-color: #120e55;
+	border: 5px inset blur;
+}
+body{
+ 
+
+background-size: 100%;
+	background-image:url(https://downloadbull.com/wp-content/uploads/2018/09/Portable-MAGIX-VEGAS-Pro-16.0-Free-Download.jpg); 
+   background-image
+
+}
+ h2 {font-family: 'Marck Script', cursive;
+background-color: white}
+ h2 {font-family: 'Pangolin', cursive;size: 500}
+ p {font-family: 'Pangolin', cursive;background-color: white}
+ p {font-family: 'Pangolin', cursive;color: darkblue}
+ p {font-family: 'Pangolin', cursive;size: 300}
+ h3 {font-family: 'Pangolin', cursive;background-color: white}
+ a {font-family: 'Pangolin', cursive;background-color: white}
+ .menu {
+ box-shadow: 4px 5px 15px black;
+ background-color: black;
+}
+.menu li {
+ display: inline-block;
+ padding: 20px;
+ color: white;
+}
+.menu li:hover {
+ background-color: white;
+ color: black;
+}
