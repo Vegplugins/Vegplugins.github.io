@@ -1,2 +1,2 @@
-# Vegplugins.github
+# Vegplugins.github.io
 html&amp;css
